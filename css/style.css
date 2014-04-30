@@ -1,0 +1,9 @@
+html, body { height: 100%;}
+div.logo {
+	background-image: url(../images/matterhorn-home-page.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% auto;
+	height: 100%;
+	width: 100%;
+}
